@@ -20,7 +20,7 @@ ul.spot-list li header {
 }
 
 ul.spot-list li strong {
-    margin-top: 30px;
+    margin-top: 10px;
     font-size: 24px;
     color: #444;
 }
@@ -42,7 +42,7 @@ ul.notifications li {
 
 ul.notifications li button {
     margin-right: 10px;
-    border: 0;
+    border: none;
     font-weight: bold;
     margin-top: 10px;
     cursor: pointer;
